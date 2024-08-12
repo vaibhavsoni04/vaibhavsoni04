@@ -1,3 +1,5 @@
+![header](https://github.com/user-attachments/assets/1bf26a54-3cb7-4b4a-a337-ef96e6ba6f53)
+
 <h1 align="center">Hi 👋, I'm Vaibhav Soni</h1>
 <h3 align="center">A passionate machine learning developer from India</h3>
 
